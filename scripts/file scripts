@@ -1,2 +1,4 @@
 cat scripts
 file scripts
+git status
+git ls-tree -r HEAD
